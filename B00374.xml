@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deceased maiden-louer. Being a pleasant new court-song: to an excellent new tune. Or to be sung to the tune of Bonny Nell</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00374</idno>
+            <idno type="STC">STC 16862.1</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[84]</idno>
+            <idno type="EEBO-CITATION">99884206</idno>
+            <idno type="PROQUEST">ocm99884206</idno>
+            <idno type="VID">182966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182966)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deceased maiden-louer. Being a pleasant new court-song: to an excellent new tune. Or to be sung to the tune of Bonny Nell</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by STC.</note>
+                  <note>Verse: "As I went forth one summers day ..."</note>
+                  <note>In two parts, separated for mounting,each with woodcut at head; the second part has caption: The faithlesse louer.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb n="84" facs="tcp:182966:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 9 -->
+                  <head>The deceaſed Maiden-Louer.</head>
+                  <head type="sub">Being a pleaſant new Court-Song to an excellent new tune.</head>
+                  <opener>Or to be ſung to the tune of Bonny <hi>Nell</hi>
+                  </opener>
+                  <p>
+                     <figure/>
+                  </p>
+                  <lg>
+                     <l>AS I went forth one Summers day,</l>
+                     <l>To view the Meddowes freſh &amp; gay</l>
+                     <l>A pleaſant Bower I eſpide,</l>
+                     <l>Standing hard by a Riuer ſide:</l>
+                     <l>And int a Maiden I heard cry,</l>
+                     <l>Alas theres none ere lou'd like I.</l>
+                  </lg>
+                  <lg>
+                     <l>I couched cloſe to heare her mone,</l>
+                     <l>With many a ſigh and heauie grone,</l>
+                     <l>And wiſht that I had been the wight</l>
+                     <l>That might haue bred her hearts delight</l>
+                     <l>But theſe were all the words that ſhe</l>
+                     <l>Did ſtill repeate, none loues like me.</l>
+                  </lg>
+                  <lg>
+                     <l>Then round the Meddowes did ſhe walke</l>
+                     <l>Catching each Flower by the ſtalke,</l>
+                     <l>Such as within the Meddowes grew,</l>
+                     <l>As <hi>Dead-mans-thumb</hi> &amp; <hi>Hare-bel</hi> blew</l>
+                     <l>And as ſhe pluckt them, ſtill cri'd ſhe</l>
+                     <lg type="refrain">
+                        <l>Alas theres none ere lou'd like me.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>A Bed therein ſhe made to lie,</l>
+                     <l>Of fine greene things that grew faſt by,</l>
+                     <l>Of <hi>Poplers</hi> and of <hi>Willow</hi> leaues,</l>
+                     <l>Of <hi>Sicamore</hi> and <hi>flaggy</hi> ſheaues:</l>
+                     <l>And as ſhe pluckt them ſtill cri'd ſhe,</l>
+                     <lg type="refrain">
+                        <l>Alas theres none ere loud like mee.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The little <hi>Larke-foot,</hi> ſheed not paſſe,</l>
+                     <l>Nor yet the flouers of <hi>Three leaud</hi> graſſe</l>
+                     <l>With Milkmaids <hi>Hunny-ſuckles</hi> phraſe</l>
+                     <l>The <hi>Crows-foot,</hi> nor the yellow <hi>Crayſe,</hi>
+                     </l>
+                     <l>And as ſhe pluckt them ſtill cride ſhe,</l>
+                     <lg type="refrain">
+                        <l>Alas theres none ere lou<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d like me.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The pretty <hi>Daiſie</hi> which doth ſhow</l>
+                     <l>Her loue to <hi>phoebus</hi> bred her woe,</l>
+                     <l>Who ioyes to ſee his chearefull face,</l>
+                     <l>And mournes when he is not in place.</l>
+                     <l>Alacke, alacke, alacke, quoth ſhe</l>
+                     <lg type="refrain">
+                        <l>Theres none that ever loues like me.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>The flowers of the ſweeteſt ſcent,</l>
+                     <l>She bound them round with knotted <hi>Bent</hi>
+                     </l>
+                     <l>And as ſhe laid them ſtill in bands,</l>
+                     <l>She wept ſhe waild, and wrung her hands</l>
+                     <l>Alas, alas, alas, quoth ſhe.</l>
+                     <lg type="refrain">
+                        <l>Theres none that euer lou'd like me.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Falſe man (quoth ſhe) forgiue thee heauen</l>
+                     <l>As I do wiſh my ſinnes forgiuen:</l>
+                     <l>In bleſt <hi>El<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>zium</hi> I ſhall ſleep,</l>
+                     <l>when thou with peiurd ſoule ſhalt weepe:</l>
+                     <l>Who when they liued did like to thee,</l>
+                     <l>That lou'd there loues as thou doſt me.</l>
+                  </lg>
+                  <lg>
+                     <l>When ſhée had fild her apron full</l>
+                     <l>Of ſuch ſweet flowers as ſhe could cull,</l>
+                     <l>The gréen Leaues ſerud her for her Bed</l>
+                     <l>The Flowers pillowes for her head.</l>
+                     <l>then down ſhe lay, nere more did ſpeak</l>
+                     <l>alas with loue her heart did breake.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Printed by the Aſſignes of Thomas Symcocke.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb n="85" facs="tcp:182966:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 9 -->
+                  <head>The Faithleſſe Louer.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <p>
+                     <figure/>
+                  </p>
+                  <lg>
+                     <l>VVHen I had ſeen this Virgins end,</l>
+                     <l>I ſorrowed as became a friend,</l>
+                     <l>And wept to ſee that ſuch a maid,</l>
+                     <l>Should be by faithleſſe loue betraid,</l>
+                     <l>But woe (I feare) will come to thee,</l>
+                     <l>That was not true in loue as ſhe.</l>
+                  </lg>
+                  <lg>
+                     <l>The Birds did ceaſe their harmony,</l>
+                     <l>The harmleſſe Lambes did ſeem to cry:</l>
+                     <l>The Flowers they did hang their head,</l>
+                     <l>The Flower of Maidens being dead,</l>
+                     <l>Whoſe life by death is now ſet free.</l>
+                     <l>And none did loue more deare then ſhe.</l>
+                  </lg>
+                  <lg>
+                     <l>The Bubling Brooks did ſeem to mone</l>
+                     <l>And Eccho from the vales did grone:</l>
+                     <l>
+                        <hi>Dianaes</hi> Nimphs did ring her knill,</l>
+                     <l>And to their Queene the ſame did tell:</l>
+                     <l>Who vowed by her chaſtitie</l>
+                     <l>That none ſhould take reuenge but ſhe.</l>
+                  </lg>
+                  <lg>
+                     <l>When as I ſaw her corpes were cold,</l>
+                     <l>I to her louer went and told,</l>
+                     <l>What chance unto this Maid befell,</l>
+                     <l>Who ſaid, Im glad ſhe ſped ſo well,</l>
+                     <l>D'ée thinke that I ſo fond would be</l>
+                     <l>To loue no Maid but onely ſhe:</l>
+                  </lg>
+                  <lg>
+                     <l>I was not made for her alone,</l>
+                     <l>I take delight to heare them mone:</l>
+                     <l>When one is gone I will haue more.</l>
+                     <l>That man is rich that hath moſt ſtore:</l>
+                     <l>I bondage hate I muſt liue free,</l>
+                     <l>And not be tide to ſuch as ſhe.</l>
+                  </lg>
+                  <lg>
+                     <l>O Sir remember then (quoth I)</l>
+                     <l>The power of heauens all ſeeing eye,</l>
+                     <l>Who doth remember vowes for got,</l>
+                     <l>Though you deny you know it not:</l>
+                     <l>Call you to minde this maiden free,</l>
+                     <l>the which was wro<g ref="char:cmbAbbrStroke">̄</g>gd by none but thée</l>
+                  </lg>
+                  <lg>
+                     <l>Quoth he I haue a loue more faire</l>
+                     <l>Beſides ſhe is her Fathers heire:</l>
+                     <l>A honny Laſſe doth pleaſe my minde,</l>
+                     <l>That unto me is wondrous kinde:</l>
+                     <l>Her will I loue and none but ſhe,</l>
+                     <l>Who welcome ſtill ſhall be to me.</l>
+                  </lg>
+                  <lg>
+                     <l>Falſe minded man that ſo would proue</l>
+                     <l>Diſloyall to thy deareſt Loue:</l>
+                     <l>Who at her death for thee did pray,</l>
+                     <l>And wiſht thee many happy day.</l>
+                     <l>I would my Loue would but loue me,</l>
+                     <l>Even halfe ſo well as ſhe lou<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d thée.</l>
+                  </lg>
+                  <lg>
+                     <l>Faire Maidens will example take,</l>
+                     <l>Young men will curſe thee for her ſake:</l>
+                     <l>Theyle ſtop their eares unto our plaints,</l>
+                     <l>And call us deuils ſeeming Saints:</l>
+                     <l>Theyle ſay to day that we are kind,</l>
+                     <l>To morrow in another minde.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Printed by the Aſſignes of Thomas Symcocke.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
